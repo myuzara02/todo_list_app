@@ -1,10 +1,10 @@
 # TODO LIST
 Dibuat Sebagai Syarat Ujian AKhir Semester Matakuliah Pemograman Mobile
 
-## Aggota Kelompok :
-- Miftah Yuzar A
-- Sofyan Tizani
-- Rival Riyanto
+## Anggota Kelompok :
+- Miftah Yuzar A (2006035)
+- Sofyan Tizani (2006033)
+- Rival Riyanto (2006077)
 
 ## Dependencies:
 - shared_preferences
