@@ -1,6 +1,12 @@
 # TODO LIST
-
 A simple, light and functional application.
+
+Dibuat Sebagai Syarat Ujian AKhir Semester Matakuliah Pemograman Mobile
+
+## Aggota Kelompok :
+- Miftah Yuzar A
+- Sofyan Tizani
+- Rival Riyanto
 
 ## Dependencies:
 - shared_preferences
