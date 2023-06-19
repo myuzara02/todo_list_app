@@ -2,11 +2,6 @@
 
 A simple, light and functional application.
 
-## How to run?
-
-To run the application, you need to download this repository and replace the files 
-of your Flutter project with the files of this project.
-
 ## Dependencies:
 - shared_preferences
 
@@ -16,9 +11,3 @@ of your Flutter project with the files of this project.
 3. Hold task to show delete option. - COMPLETED
 4. A complete new design for the App. - COMPLETED
 5. Completed Tasks screen. - COMPLETED
-
-## Next releases:
-
-3. Star button to set the task as important. - ON RELEASE
-4. GraphQL for online storage. - ON RELEASE
-...
