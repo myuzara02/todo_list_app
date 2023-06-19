@@ -1,6 +1,4 @@
 # TODO LIST
-A simple, light and functional application.
-
 Dibuat Sebagai Syarat Ujian AKhir Semester Matakuliah Pemograman Mobile
 
 ## Aggota Kelompok :
