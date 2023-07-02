@@ -1,7 +1,7 @@
 # TODO LIST
 Dibuat Sebagai Syarat Ujian AKhir Semester Matakuliah Pemograman Mobile
 
-## Anggota Kelompok 7 :
+## Anggota Kelompok 7 Kelas B :
 - Miftah Yuzar A (2006035)
 - Sofyan Tizani (2006033)
 - Rival Riyanto (2006077)
